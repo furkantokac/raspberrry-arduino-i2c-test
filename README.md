@@ -1,5 +1,3 @@
-# Raspberry Arduino I2C Test
----------------
 # Master
 - Raspberry Pi 3 Version B
 - I2C installation and necessary settings are told in the report.
